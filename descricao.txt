@@ -1,0 +1,1 @@
+estação meteorológica inteligente sem app mas com wifi esp32 led rgb dht rtc buzzer display lcd 16x4 i2c
